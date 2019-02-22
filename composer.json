@@ -1,5 +1,5 @@
 {
-    "name": "toyrone/atlas-sms-wrapper",
+    "name": "toyrone/atlas-sms-phpwrapper",
     "type": "library",
     "description": "Atlas sms api wrapper",
     "keywords": [
