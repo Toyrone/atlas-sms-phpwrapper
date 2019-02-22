@@ -1,23 +1,24 @@
 {
-    "name": ":vendor/:package_name",
+    "name": "toyrone/atlas-sms-wrapper",
     "type": "library",
-    "description": ":package_description",
+    "description": "Atlas sms api wrapper",
     "keywords": [
-        ":vendor",
+        "atlas-sms",
         ":package_name"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/toyrone/atlas-sms-wrapper",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "toyrone",
+            "email": "akinstoyosi@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php" : "~7.1"
+        "php": "~7.1",
+        "guzzle/guzzle": "~3.9",
+        "guzzlehttp/guzzle": "~6.0"
     },
     "require-dev": {
         "phpunit/phpunit" : ">=7.0",
