@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Toyrone\smsApi;
+namespace Toyrone\altasSms;
 
 
 use GuzzleHttp\Client;
